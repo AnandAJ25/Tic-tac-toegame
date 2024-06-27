@@ -1,0 +1,15 @@
+button{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    font-size: 40px;
+    cursor: pointer;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding: 50px
+
+
+}
